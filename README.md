@@ -1,6 +1,6 @@
 # KoBART Biblify
 
-[Huggingface Spaces에서 직접 사용해볼 수 있습니다](https://huggingface.co/spaces/rycont/Biblify   
+[Huggingface Spaces에서 직접 사용해볼 수 있습니다](https://huggingface.co/spaces/rycont/Biblify)   
 [Kaggle Notebooks에서 코드를 볼 수 있습니다](https://www.kaggle.com/code/rycont/biblify)
 
 
